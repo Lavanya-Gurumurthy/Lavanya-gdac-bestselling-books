@@ -1,0 +1,10 @@
+No of fiction books,240
+No of non fiction books,310
+No of reviews greater than 4.0,529
+No of reviews less than or equal to 4,21
+Lowest rating,3.3
+Highest rating,4.9
+No of books with the lowest review (3.3),1
+No of books with highest rating (4.9),52
+Fiction books with rating 4.9,41
+Non Fiction books with rating 4.9,11
